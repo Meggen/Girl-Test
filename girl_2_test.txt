@@ -1,0 +1,4 @@
+[] seeds
+[] soil
+[] sun
+[] water
