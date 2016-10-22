@@ -1,0 +1,3 @@
+[] Call doctor
+[] Make appt
+[] Go to appt
